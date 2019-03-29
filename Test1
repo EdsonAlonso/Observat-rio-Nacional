@@ -1,0 +1,3 @@
+program exec    
+call SYSTEM('./IGRF_12.alt')
+end program

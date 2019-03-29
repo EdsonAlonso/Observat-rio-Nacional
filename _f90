@@ -1,0 +1,3 @@
+program exec    
+call SYSTEM('pwd')
+end program

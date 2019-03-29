@@ -1,0 +1,19 @@
+ 1961.100 Lat -26.200 geocentric Long  -52.200  6371.000 km Irai                
+               D =   -8 deg  58 min    SV =     -11 min/yr
+               I =  -23 deg   9 min    SV =     -12 min/yr
+               H =   22241 nT          SV =     -60 nT/yr
+               X =   21969 nT          SV =     -71 nT/yr
+               Y =   -3464 nT          SV =     -63 nT/yr
+               Z =   -9506 nT          SV =     -63 nT/yr
+               F =   24187 nT          SV =     -31 nT/yr
+
+ D is declination (+ve east)
+ I is inclination (+ve down)
+ H is horizontal intensity
+ X is north component
+ Y is east component
+ Z is vertical component (+ve down)
+ F is total intensity
+
+ SV is secular variation (annual rate of change)
+ These elements are relative to the geocentric coordinate system
